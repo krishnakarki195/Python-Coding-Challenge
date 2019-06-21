@@ -33,6 +33,3 @@ Example user input and output would be:
 +-----+----------------+-------+-------------+
 ```
 
-## Completion
-
-After you are finished with the challenge, commit your changes, push to your GitHub, and send us a link.
